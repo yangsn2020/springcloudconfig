@@ -1,1 +1,0 @@
-version=springcloud 1.7
